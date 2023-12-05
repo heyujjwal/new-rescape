@@ -1,0 +1,24 @@
+body{
+    font-size: xx-large;
+    font-weight: 500;
+    background-image: url(https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(37, 17, 63);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 115px;
+    color:crimson;
+}
+h1{
+    margin-top: 70px;
+    color:crimson;
+}
+li{
+
+    padding: 10px;
+
+}
